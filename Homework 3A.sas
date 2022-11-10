@@ -1,9 +1,3 @@
-/*********************************************/
-/* STAT 330, Fall 2022						 */
-/* Homework #3A								 */
-/* Donya Behroozi and Grace Trenholme		 */
-/*********************************************/
-
 *1a;
 filename bpfile '/home/u62368731/sasuser.v94/Homework/HT Screening.txt';
 data hypertension_screening;
